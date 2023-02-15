@@ -1,0 +1,13 @@
+.project-img {
+  width: 200px;
+  /* height: 30vh; */
+}
+.project-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.visit {
+  text-decoration: none;
+  font-size: 20px;
+}

@@ -1,0 +1,34 @@
+.course-card-time-title-container {
+  display: flex;
+  justify-content: space-between;
+}
+.un-order-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.li-item {
+  margin: 10px;
+  background-color: rgb(243, 241, 241);
+  padding: 8px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  color: #171f46;
+}
+.duration {
+  color: #171f46;
+  font-weight: 500;
+}
+.discription {
+  line-height: 1.5;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.clock-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.clock {
+  margin-right: 3px;
+}
